@@ -15,6 +15,5 @@ class FirstTabController: UIViewController {
     }
     
     private func configure() {
-        view.backgroundColor = .red
     }
 }

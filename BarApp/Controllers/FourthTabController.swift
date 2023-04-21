@@ -15,7 +15,6 @@ class FourthTabController: UIViewController {
     }
  
     private func configure() {
-        view.backgroundColor = .green
     }
     
 

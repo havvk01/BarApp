@@ -15,7 +15,6 @@ class ThirdTabController: UIViewController {
     }
     
     private func configure() {
-        view.backgroundColor = .cyan
     }
 
 }

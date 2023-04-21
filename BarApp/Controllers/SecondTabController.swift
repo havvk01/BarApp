@@ -15,7 +15,6 @@ class SecondTabController: UIViewController {
     }
     
     private func configure() {
-        view.backgroundColor = .yellow
     }
 
 }
